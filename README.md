@@ -44,10 +44,7 @@ the right level of access to perform their duties while maintaining security and
 <img src="https://imgur.com/G6xCRD4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. Configure Departments
-Admin Panel -> Agents -> Departments
-System Administrators
-
+2. To configure departments within the Admin Panel, navigate to the Agents tab and select Departments. This option is only available to System Administrators. From there, you can add, edit, or delete departments as needed.  
 </p>
 <br />
 
@@ -55,10 +52,7 @@ System Administrators
 <img src="https://imgur.com/iW1hwOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. Configure Teams
-Admin Panel -> Agents -> Teams
-Level I Support
-Level II Support
+3. To configure teams within the Admin Panel, navigate to the Agents tab and select Teams. This option is only available to Level I and Level II Support agents. From there, you can manage and assign team members, set up escalation paths, and monitor team performance metrics.  
 
 </p>
 <br />
@@ -67,9 +61,7 @@ Level II Support
 <img src="https://imgur.com/HjJwICH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Allow anyone to create tickets
-Admin Panel -> Settings -> User Settings
-Registration Required: Require registration and login to create tickets 
+4. In the Admin Panel, you can allow anyone to create tickets by navigating to the Settings tab and selecting User Settings. Under the Registration Required section, you can choose to require registration and login in order to create tickets. This feature can help ensure the security of your system and prevent spam tickets.  
 
 </p>
 <br />
@@ -77,9 +69,7 @@ Registration Required: Require registration and login to create tickets
 <img src="https://imgur.com/B4KJ2Da.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. Configure Agents (workers)
-Admin Panel -> Agents -> Add New
-Jane and John
+5.  To configure agents (workers), within the Admin Panel, navigate to the Agents tab and select Add New. From there, you can add new agents such as Jane and   to your system. Once added, you can John assign them to teams, departments, and roles as needed to ensure they have the appropriate access and permissions to complete their tasks.   
 
 </p>
 <br />
