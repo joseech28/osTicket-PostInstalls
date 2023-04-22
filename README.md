@@ -34,8 +34,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://imgur.com/6Uhcr4z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. Agents are given roles according to each Department to which they have access. Each Role has a set of permissions that agents assigned to that Role in relation with a Department they have access to can check or uncheck. Agents with access to numerous departments can be given a countless number of roles.
-
+1. In order to ensure proper access control, we assign roles to agents based on their respective departments. Each role is assigned a set of permissions that can be customized by agents based on their access 
+to specific departments. If an agent has access to multiple departments, they can be assigned multiple roles to manage different responsibilities across those departments. This system ensures that agents have 
+the right level of access to perform their duties while maintaining security and compliance.  
 </p>
 <br />
 
