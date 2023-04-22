@@ -52,8 +52,7 @@ the right level of access to perform their duties while maintaining security and
 <img src="https://imgur.com/iW1hwOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-3. To configure teams within the Admin Panel, navigate to the Agents tab and select Teams. This option is only available to Level I and Level II Support agents. From there, you can manage and assign team members, set up escalation paths, and monitor team performance metrics.  
-
+3. The system already has a couple of built-in roles, but I'll create another one so I can understand what this is all about, and I'll call it Supreme-Admin.
 </p>
 <br />
 
@@ -61,7 +60,8 @@ the right level of access to perform their duties while maintaining security and
 <img src="https://imgur.com/HjJwICH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. In the Admin Panel, you can allow anyone to create tickets by navigating to the Settings tab and selecting User Settings. Under the Registration Required section, you can choose to require registration and login in order to create tickets. This feature can help ensure the security of your system and prevent spam tickets.  
+4. This supreme admin can be like anything right now I'm just going to name it and then add permissions these are like all the the 
+different areas I can add access to it. 
 
 </p>
 <br />
@@ -71,20 +71,14 @@ the right level of access to perform their duties while maintaining security and
 <p>
 5.  To configure agents (workers), within the Admin Panel, navigate to the Agents tab and select Add New. From there, you can add new agents such as Jane and   to your system. Once added, you can John assign them to teams, departments, and roles as needed to ensure they have the appropriate access and permissions to complete their tasks.   
 
-</p>
-<br />
-<p>
-<img src="https://imgur.com/i91enh4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 <p>
 <img src="https://imgur.com/GUAYepM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+6. So, now I'm going to do this in the admin panel, then agents departments (I'm already here), and then we'll go to departments, so it appears that there's a maintenance department and a support department by default.
 </p>
 <br />
 <p>
