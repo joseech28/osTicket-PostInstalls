@@ -85,7 +85,7 @@ different areas I can add access to it.
 <img src="https://imgur.com/A4tewuf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+7. Next, it's simply on the admin panel agents team, so I'm already on that, and then teams so we can say Level I support or Level II support. I can just build a new one named a team or something similar, and I'll call it level II support.
 </p>
 <br />
 <p>
