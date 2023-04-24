@@ -93,21 +93,23 @@ different areas I can add access to it.
 </p>
 <br />
 <p>
-
-</p>
-<br />
-<p>
 <img src="https://imgur.com/Mi7d4lF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+8. So, to create agents go to admin panel agents add new so I'm in the admin panel
+agents and then I'll add a couple of new agents Jane and John Doe.
+
 </p>
 <br />
 <p>
 <img src="https://imgur.com/u6ufc2a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+9. Next, I can assign a department to a specific person so that they can be added to system administrators, and then I can see the 
+role that I created earlier that allows me to see and literally do everything, so I can make Jane Doe a supreme admin with extended 
+access, or I can add more access based on the departments.
+
+
 </p>
 <br />
 <p>
