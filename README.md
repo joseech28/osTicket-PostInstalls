@@ -117,14 +117,22 @@ access, or I can add more access based on the departments.
 <img src="https://imgur.com/y0hGNm4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Nine! I created credentials for Jane and John Doe a supreme admin and extended access.
+10. Nine! I created credentials for Jane and John Doe a supreme admin and extended access.
 </p>
 <br />
 <p>
+<img src="https://imgur.com/BfjSRWH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+  11. Next, I'll going to add the users switch to the agent panel and then I'll create and add
+users then with their full names Karen Karen and and Ken Ken.
+
 <img src="https://imgur.com/rlgU3Rx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+12. Ok! I created credentials the users Karen and and Ken Ken.Next we're going to configure SLAS.
+
 </p>
 <br />
 <p>
