@@ -139,36 +139,22 @@ users then with their full names Karen Karen and and Ken Ken.
 <img src="https://imgur.com/lE5dHBo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-12. Next go to admin panel here go to manage my SLA is and then SLA
-
+13. Next go to admin panel here go to manage my SLA is and then SLA
 I'll create three slas this is something you kind of might see this in
-
 the real world something like Sev-A, Sev-B and Sev-C so,
-
 Sav-A let's set the schedule for 24 7 basically means if something
-
 happens on the weekend it doesn't matter that it's on the weekend it kind of it
-
 still applies so we can say like one hour for instance so if it happens if a
-
 Sav a comes through on like Sunday night at 10 pm it needs to be resolved by
-
 Sunday night at 11 PM. 
 
-</p>
-<br />
-<p>
-<img src="https://imgur.com/9lU0Gej.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 <p>
 <img src="https://imgur.com/abcJfja.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+14. Sev-A, Sev-B and Sev-C all set up now and ready to go.
 </p>
 <br />
 <p>
